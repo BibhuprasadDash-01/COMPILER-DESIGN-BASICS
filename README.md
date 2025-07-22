@@ -21,4 +21,5 @@
 * DELIVERABLE: A PROGRAM DEMONSTRATING LEXICAL ANALYSIS WITH SAMPLE OUTPUTS.
   
   *OUTPUT*
+  <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3468eaff-62bc-4375-b2f8-93bdbd4634a5" />
   
